@@ -1,2 +1,2 @@
 # Resume
-This is my Resume
+Akarsh Shukla is a Computer Science Engineering student at VIT Bhopal University (graduating in 2027) with a strong foundation in Data Structures and Algorithms, software engineering, and core programming languages like C++, Java, and Python. He specializes in Android mobile application development and cloud computing infrastructure, particularly within the AWS ecosystem using tools like the AWS Cloud Development Kit. Driven by practical problem-solving and competitive programming, he actively builds projects that bridge mobile development and scalable cloud solutions while pursuing competitive technical opportunities.
